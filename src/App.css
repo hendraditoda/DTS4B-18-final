@@ -3,6 +3,10 @@
   font-family: 'Roboto';
 }
 
+.MuiBox-root css-1f6uatm {
+  margin: 0 !important;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
